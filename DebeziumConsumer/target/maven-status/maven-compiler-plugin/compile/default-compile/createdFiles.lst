@@ -1,0 +1,6 @@
+harsh\rane\model\TargetTable.class
+harsh\rane\dao\TargetTableDao.class
+harsh\rane\config\KafkaConfig.class
+harsh\rane\service\ConsumerListener.class
+harsh\rane\config\HibernateConfig.class
+harsh\rane\ConsumerMain.class
